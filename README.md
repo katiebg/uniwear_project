@@ -1,3 +1,3 @@
 # uniwear_project
 
-https://katiebg.github.io/гuniwear-project
+https://katiebg.github.io/uniwear-project
